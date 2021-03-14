@@ -1,0 +1,1 @@
+This is A-mourai's first git project!
